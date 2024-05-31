@@ -44,8 +44,8 @@
     <h1>Unitec - Cómputo en la Nube</h1>
   </header>
   <main>
-    <h2>¡Hola!</h2> 
-    <p>Primera práctica de cómputo en la nube</p> 
+    <h2>¡Bienvenido!</h2> 
+    <p>Esta es la primera práctica de cómputo en la nube.</p> 
   </main>
   <footer>
     <p>&copy; 2024 Unitec. Todos los derechos reservados.</p>
