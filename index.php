@@ -20,6 +20,7 @@
     }
     main {
       padding: 2rem;
+      text-align: center;
     }
     h1 {
       color: #0056b3;
@@ -44,8 +45,8 @@
     <h1>Unitec - Cómputo en la Nube</h1>
   </header>
   <main>
-    <h2>¡Bienvenido!</h2> 
-    <p>Esta es la primera práctica de cómputo en la nube.</p> 
+    <h2 style="color: #0056b3;">¡Hola!</h2> 
+    <p>Primera práctica de cómputo en la nube</p> 
   </main>
   <footer>
     <p>&copy; 2024 Unitec. Todos los derechos reservados.</p>
