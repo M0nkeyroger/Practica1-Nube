@@ -23,7 +23,7 @@
       text-align: center;
     }
     h1 {
-      color: #0056b3;
+      color: white; /* Changed header text color to white */
     }
     p {
       font-size: 1.2rem;
